@@ -73,7 +73,7 @@ ui <- fluidPage(
             
             hr(),
             
-            p( "The app is coded using R 4.0.2 (R Core Team, 2020) and 'Shiny' package. Using 'Shiny' package and interactive user interphase is created where parameters (e.g. standard deviation of reaction times) can be enter via the slider bars and the results (as graph) are displayed as output.The code is uploaded to '..' under GNU license (open source). ", style = "font-size:11px") ,
+            p( "The app is coded using R 4.0.2 (R Core Team, 2020) and 'Shiny' package. Using 'Shiny' package and interactive user interphase is created where parameters (e.g. standard deviation of reaction times) can be enter via the slider bars and the results (as graph) are displayed as output.The code is uploaded under GNU license (open source) to 'https://github.com/AlicanCaglayan/App_Theoratical_Outcomes_Stop_Signal_Task' . ", style = "font-size:11px") ,
             
             
             
